@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey there, I'm Ganesh!
 
-<!--
-**ganesh-nitw/ganesh-nitw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE (AI & DS)** @ **NIT Warangal**  
+💡 Curious mind exploring the intersection of **AI, Data Science, and Real-world Applications**  
+🚀 Dreaming to work on cutting-edge tech at **Google** someday  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+- 🔭 Currently improving my skills in **C++** and learning **Machine Learning basics**  
+- 🌱 Exploring **GitHub, open source, and version control**  
+- 🧩 Believe in learning by building — small projects, big impact  
+- ⚡ “Every expert was once a beginner” keeps me motivated daily  
+
+---
+
+### 🧰 Tech Stack
+**Languages interested to learn:** C++, Python, HTML, CSS  
+**Tools using:** GitHub, VS Code, Dev C++  
+**Domains of Interest:** AI, Data Science, Algorithms, Open Source  
+
+---
+
+### 🌍 Connect With Me
+📫 **Email:** *[silentlnd722841@gmail.com]*   
+📸 **Instagram:** *[itsme_s.ganesh]*  
+
+---
+
+⭐ *"Keep coding. Keep learning. Keep growing."*  
