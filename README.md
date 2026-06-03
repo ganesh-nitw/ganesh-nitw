@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm Ganesh!
 
 🎓 **B.Tech CSE (AI & DS)** @ **NIT Warangal**  
-💡 Curious mind exploring the intersection of **AI, Data Science, and Real-world Applications**  
-🚀 Dreaming to work on cutting-edge tech at **Google** someday  
+💡 Curious mind exploring the intersection of **AI, Data Science,Quant, and Real-world Applications**  
+🚀 Dreaming to work on cutting-edge tech at **Jane street** someday  
 
 ---
 
@@ -16,8 +16,8 @@
 
 ### 🧰 Tech Stack
 **Languages interested to learn:** C++, Python, HTML, CSS  
-**Tools using:** GitHub, VS Code, Dev C++  
-**Domains of Interest:** AI, Data Science, Algorithms, Open Source  
+**Tools using:** GitHub, VS Code, Dev C++,Codeforces
+**Domains of Interest:** AI, Data Science, Algorithms, Open Source  ,Quant
 
 ---
 
